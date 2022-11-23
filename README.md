@@ -81,7 +81,7 @@ const Ankita = {
 <br>
 <img align = "center" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitaXdutta&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=2&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><img align="center" width=55% src="https://github-readme-streak-stats.herokuapp.com/?user=ankitaXdutta&" alt="ankitaXdutta"/></a>
 
-<img align = "center" width = 100% src = "https://activity-graph.herokuapp.com/graph?username=ankitaXdutta&theme=react-dark" alt = "ankitaXdutta"/>
+<img align = "center" width = 100% src = "https://activity-graph.herokuapp.com/graph?username=ankitaXdutta&theme=react-dark" alt = "activity-graph"/>
 <img align = "center" width = 100% src = "https://github-profile-trophy.vercel.app/?username=ankitaXdutta&theme=onedark" alt = "ankitaXdutta"/>
 <div align = "center">
 <img align = "center" width = 80% src = "https://github.com/ankitaXdutta/ankitaXdutta/blob/154d455847d0478363aaaf2429dcd55fe33acd14/motivation.png" alt = "motivation-pic"> 
