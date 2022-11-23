@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" alt="ankita-banner">
+<img src="https://github.com/ankitaXdutta/ankitaXdutta/blob/69b0221fd4954abe425243ee2b40947863c439a4/banner.gif" alt="ankita-banner">
 
 
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/ankita-dutta007/" target="_blank" rel="noopener noreferrer">Ankita Dutta</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
