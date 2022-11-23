@@ -84,7 +84,7 @@ const Ankita = {
 <img align = "center" width = 100% src = "https://activity-graph.herokuapp.com/graph?username=ankitaXdutta&theme=react-dark" alt = "ankitaXdutta"/>
 <img align = "center" width = 100% src = "https://github-profile-trophy.vercel.app/?username=ankitaXdutta&theme=onedark" alt = "ankitaXdutta"/>
 <div align = "center">
-<img align = "center" height = "800px" width = "800px" src = "https://github.com/ankitaXdutta/ankitaXdutta/blob/154d455847d0478363aaaf2429dcd55fe33acd14/motivation.png" alt = "motivation-pic"> 
+<img align = "center" width = 80% src = "https://github.com/ankitaXdutta/ankitaXdutta/blob/154d455847d0478363aaaf2429dcd55fe33acd14/motivation.png" alt = "motivation-pic"> 
 </div>
 
 
