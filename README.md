@@ -2,8 +2,10 @@
 
 
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/ankita-dutta007/" target="_blank" rel="noopener noreferrer">Ankita Dutta</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
-<h2 align="center">A passionate Full Stack Developer and a Machine Learning Engineer. I'm also interested in Game Development, DeFi and Trading ❤️</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitaXdutta&label=Profile%20views&color=0e75b6&style=flat" alt="ankitaXdutta" /> </p>
+<h2 align="center">A passionate Full Stack Developer and a Machine Learning Engineer from India 🇮🇳 . I'm also interested in Game Development, DeFi and Trading ❤️</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ankitaXdutta&label=Profile%20views&color=0e75b6&style=flat" alt="ankitaXdutta" /> </p>
+<p align="center" font-size = "30px">I'm currently a student pursuing my Bachelor of Technology in Computer Science & Engineering from BPPIMT, Kolkata :student:. I'm passionate about areas of machine learning like deep learning and reinforcement learning and areas of Full Stack Development. I've started exploring the field of DeFi and  as well ✨ and hope to contribute to that field as well. My hobbies include painting, traveling, learning languages. 
+</p>
 
 <h2 align="center">My Socials 🥳 : </h2>
 <p align="center">
@@ -36,4 +38,4 @@
   
 -----
 
-Last Edited on: 22/11/2022
+Last Edited on: 23/11/2022
