@@ -46,13 +46,21 @@ const Ankita = {
       
 };
 ```
+<div align = "center">
+  <h3 align = "center">Random dev joke for you!</h3><br>
+  <img align = "center" width = 50% src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+  <h2 align = "center">Ask me about anything. I will try to help you as much as I can.</h2>
+</div>
 
-<h2 align="center">My Socials 🥳 : </h2>
-<p align="center">
+<div align = "center">
+<h1>My Socials 🥳 : </h1>
+<p>
 <a href="https://www.linkedin.com/in/ankita-dutta007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ankita-dutta007/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC369AS_IhnlGQB9VqusQV0A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ankita" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC369AS_IhnlGQB9VqusQV0A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ankita" height="35" width="40" /></a>
+</div>
 
-<h2 align = "center" >Technologies : </h2>
+
+<h1 align = "center" >Technologies : </h1>
 <p align = "center">
   <code><img height="40" src="https://raw.githubusercontent.com/ankitaXdutta/ankitaXdutta/main/icons/c-original.svg" alt="C"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/ankitaXdutta/ankitaXdutta/main/icons/cplusplus-original.svg" alt="C++"></code>
@@ -68,13 +76,14 @@ const Ankita = {
 </p>
 
 -----
-<h2 align = "center" >My Stats 📊 : </h2>
+<h1 align = "center" >My Stats 📊 : </h1>
 <a href="https://www.adamalston.com/"><img align = "centre" width=100% src="https://github-readme-stats.vercel.app/api?username=ankitaXdutta&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" alt="ankitaXdutta"/>
 <br>
 <img align = "center" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitaXdutta&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=2&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><img align="center" width=55% src="https://github-readme-streak-stats.herokuapp.com/?user=ankitaXdutta&" alt="ankitaXdutta"/></a>
 
 <img align = "center" width = 100% src = "https://activity-graph.herokuapp.com/graph?username=ankitaXdutta&theme=react-dark" alt = "ankitaXdutta"/>
 <img align = "center" width = 100% src = "https://github-profile-trophy.vercel.app/?username=ankitaXdutta&theme=onedark" alt = "ankitaXdutta"/>
+<>
   
 -----
 
